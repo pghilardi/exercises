@@ -1,0 +1,2 @@
+# exercises
+Public algorithms practice
