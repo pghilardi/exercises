@@ -1,2 +1,3 @@
-# exercises
-Public algorithms practice
+# Exercises
+
+Algorithms solutions using Python
