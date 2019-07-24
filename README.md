@@ -1,3 +1,3 @@
 # Exercises
 
-Algorithms solutions using Python
+Exercises using data structures and other algorithmic puzzles 
